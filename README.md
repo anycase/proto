@@ -1,0 +1,4 @@
+proto
+=====
+
+AnyCase prototype
